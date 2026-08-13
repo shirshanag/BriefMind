@@ -48,8 +48,8 @@ Browser → FastAPI → Ollama → Mistral → FastAPI → Browser
 
 ### Homepage
 
-![MistralMind Homepage](images/demo.jpeg)
+![MistralMind Homepage](images/Demo.jpeg)
 
 ### Text Summarization
 
-![Text Summarization Demo](images/summary-demo.png)
+![Text Summarization Demo](Home Page.jpeg)
