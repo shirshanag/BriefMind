@@ -52,4 +52,4 @@ Browser → FastAPI → Ollama → Mistral → FastAPI → Browser
 
 ### Text Summarization
 
-![Text Summarization Demo](Home Page.jpeg)
+![Text Summarization Demo](HomePage.jpeg)
