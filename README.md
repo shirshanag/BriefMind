@@ -43,3 +43,13 @@ Browser → FastAPI → Ollama → Mistral → FastAPI → Browser
 - FastAPI backend
 - Simple web interface
 - No external LLM API required
+
+## Demo
+
+### Homepage
+
+![MistralMind Homepage](images/demo.jpeg)
+
+### Text Summarization
+
+![Text Summarization Demo](images/summary-demo.png)
