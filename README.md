@@ -1,4 +1,4 @@
-# MistralMind
+# Brief-Mind
 
 An AI-powered text summarization web application built using FastAPI,
 HTML/CSS/JavaScript, and Mistral running locally through Ollama.
